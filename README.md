@@ -46,4 +46,4 @@ A **simple & interactive calculator** built using **JavaFX**. Perform basic arit
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/JavaFX-Calculator.git
+git clone https://github.com/ayush-techx/JavaFX-Calculator.git
